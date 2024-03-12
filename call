@@ -1,0 +1,4 @@
+<Response>
+<Say voice="woman">Thanks for using our Services. Alert, something is down. Fix it!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
